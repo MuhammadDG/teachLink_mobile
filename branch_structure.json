@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1416-add-a-design-document-template-for-teachlink",
+    "fix/issue-1437-add-a-vendor-register-for-teachlink-mobile",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1416-add-a-design-document-template-for-teachlink": "main",
+    "fix/issue-1437-add-a-vendor-register-for-teachlink-mobile": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1416-add-a-design-document-template-for-teachlink",
+    "fix/issue-1437-add-a-vendor-register-for-teachlink-mobile",
+    "origin"
+  ]
+}
